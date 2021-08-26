@@ -1,5 +1,8 @@
 # Online-Judge-for-C-Using-Socket-Programming
 
+A console app written in C++ using socket proramming where the client can send C/C++ programs to be judged by the server. 
+The server checks the client's program and matches its output with some hidden testcases and sends some feedback messages accordingly to the client.
+
 
 ### COMMANDS FOR EXECUTION:
 
@@ -119,9 +122,9 @@
 
     -> Maximum filesize allowed to be transferred - 1GB 
 
-	  -> Buffer size for sending and receiving data - 2048
+    -> Buffer size for sending and receiving data - 2048
 
-	  -> Port number range - from 1024 to 65535
+    -> Port number range - from 1024 to 65535
     
     
     
